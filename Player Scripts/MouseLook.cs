@@ -8,7 +8,7 @@ public class MouseLook : MonoBehaviour {
     private Transform playerRoot, lookRoot;
 
     [SerializeField]
-    //private bool invert;
+    private bool invert;
 
     [SerializeField]
     private bool can_Unlock = true;
