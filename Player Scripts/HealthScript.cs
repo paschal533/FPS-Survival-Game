@@ -7,7 +7,7 @@ public class HealthScript : MonoBehaviour {
 
     private EnemyAnimator enemy_Anim;
     private NavMeshAgent navAgent;
-    private EnemyController enemy_Controller;
+    //private EnemyController enemy_Controller;
 
     public float health = 100f;
 
