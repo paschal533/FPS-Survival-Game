@@ -9,7 +9,7 @@ public class HealthScript : MonoBehaviour {
     private NavMeshAgent navAgent;
     private EnemyController enemy_Controller;
 
-    public float health = 100f;
+    //public float health = 100f;
 
     public bool is_Player, is_Boar, is_Cannibal;
 
