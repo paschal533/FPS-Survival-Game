@@ -6,7 +6,7 @@ public class AttackScript : MonoBehaviour {
 
     public float damage = 2f;
     public float radius = 1f;
-    public LayerMask layerMask;
+    //public LayerMask layerMask;
 	
 	void Update () {
 
