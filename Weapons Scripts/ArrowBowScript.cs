@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ArrowBowScript : MonoBehaviour {
 
-   // private Rigidbody myBody;
+   private Rigidbody myBody;
 
     public float speed = 30f;
 
