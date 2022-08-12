@@ -8,7 +8,7 @@ public class ArrowBowScript : MonoBehaviour {
 
     public float speed = 30f;
 
-    public float deactivate_Timer = 3f;
+    //public float deactivate_Timer = 3f;
 
     public float damage = 50f;
 
