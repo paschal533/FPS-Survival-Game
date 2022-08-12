@@ -6,7 +6,7 @@ public class ArrowBowScript : MonoBehaviour {
 
    private Rigidbody myBody;
 
-    //public float speed = 30f;
+    public float speed = 30f;
 
     public float deactivate_Timer = 3f;
 
