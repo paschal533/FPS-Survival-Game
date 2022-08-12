@@ -10,7 +10,7 @@ public class ArrowBowScript : MonoBehaviour {
 
     public float deactivate_Timer = 3f;
 
-    //public float damage = 50f;
+    public float damage = 50f;
 
     void Awake() {
         myBody = GetComponent<Rigidbody>();
